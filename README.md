@@ -1,2 +1,1 @@
-SimpleMazeSolver-The-Shortest-Path-
-===================================
+Simple maze solver.Find the shortest path using BFS algorithm.
